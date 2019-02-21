@@ -1,4 +1,4 @@
-public abstract class Figura implements Comparable<Figura>{
+public abstract class Figura{
 
    /* public Figura(){
 
